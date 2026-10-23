@@ -1,36 +1,45 @@
 # Projeto 1 - Clínica Vida Saudável
 
-Este repositório reúne os materiais e o projeto relacionado à atividade acadêmica de "Clínica Vida Saudável".
+Este repositório foi criado para organizar e documentar o projeto acadêmico relacionado à temática "Clínica Vida Saudável". O material reúne arquivos de apoio, documentação e o projeto principal, com foco no estudo e aplicação de conceitos de Estruturas de Dados.
 
-## Descrição
+## Descrição do projeto
 
-O projeto consiste em um material de estudo e desenvolvimento vinculado à disciplina de Estruturas de Dados, incluindo documentação, arquivos de apoio e o projeto principal compactado.
+O objetivo do projeto é desenvolver uma solução digital para representar e organizar informações de uma clínica voltada à promoção da saúde e bem-estar. A proposta está alinhada ao contexto de gestão de dados, estruturação de informações e organização lógica de elementos, utilizando conceitos fundamentais de programação e estruturas de dados.
 
-## Conteúdo do repositório
+A temática da clínica permite explorar aplicações práticas como:
 
-- `Projeto Clinica Vida Saudavel.zip` — arquivo compactado contendo o projeto principal.
-- `Arvore Binaria.docx` — material documental relacionado a árvore binária.
-- `Estrutura de Dados-20261015_210221-Gravação de Reunião.mp4` — gravação da reunião/explicação do projeto.
+- cadastro e organização de pacientes;
+- controle de informações de saúde;
+- estruturação de dados em árvore e outros modelos lógicos;
+- organização de conteúdo para facilitar o entendimento e a manutenção do sistema.
 
-## Objetivo
+## Conteúdo do reposit��rio
 
-Organizar e centralizar os recursos do projeto para facilitar:
+- `Projeto Clinica Vida Saudavel.zip` — arquivo compactado com o projeto principal.
+- `Arvore Binaria.docx` — documentação relacionada a árvores binárias.
+- `Estrutura de Dados-20261015_210221-Gravação de Reunião.mp4` — gravação de reunião/explicação do projeto.
+- `README.md` — documentação geral do repositório.
 
-- acesso ao material do curso;
-- revisão da estrutura e da lógica implementada;
-- consulta à documentação e registros da equipe.
+## Objetivo acadêmico
 
-## Como usar
+O projeto tem como finalidade praticar conceitos de:
 
-1. Faça o download do arquivo `Projeto Clinica Vida Saudavel.zip`.
+- modelagem de dados;
+- organização de informações;
+- estruturação de algoritmos;
+- uso de estruturas de dados para resolver problemas reais de forma eficiente.
+
+## Como utilizar
+
+1. Baixe o arquivo `Projeto Clinica Vida Saudavel.zip`.
 2. Extraia os arquivos em uma pasta local.
-3. Abra o projeto em sua IDE ou ambiente de desenvolvimento adequado.
-4. Consulte os documentos e a gravação para entender melhor a implementação e os requisitos.
+3. Abra o projeto no ambiente de desenvolvimento adequado.
+4. Consulte a documentação e os materiais de apoio para entender melhor a lógica e a implementação.
 
 ## Observação
 
-Este README foi criado para servir como base inicial da organização do repositório. Caso o projeto principal tenha uma estrutura específica, ela pode ser documentada futuramente com instruções detalhadas de execução, tecnologias usadas e arquitetura.
+Este README foi elaborado em português para apresentar uma visão geral clara do projeto e facilitar a compreensão do contexto acadêmico e da organização do repositório.
 
 ---
 
-Desenvolvido para documentação e organização do projeto de Clínica Vida Saudável.
+Projeto desenvolvido como material de estudo e organização para a disciplina de Estruturas de Dados.
