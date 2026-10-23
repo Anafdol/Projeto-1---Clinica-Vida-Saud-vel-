@@ -13,7 +13,7 @@ A temática da clínica permite explorar aplicações práticas como:
 - estruturação de dados em árvore e outros modelos lógicos;
 - organização de conteúdo para facilitar o entendimento e a manutenção do sistema.
 
-## Conteúdo do reposit��rio
+## Conteúdo do repositorio
 
 - `Projeto Clinica Vida Saudavel.zip` — arquivo compactado com o projeto principal.
 - `Arvore Binaria.docx` — documentação relacionada a árvores binárias.
@@ -35,10 +35,6 @@ O projeto tem como finalidade praticar conceitos de:
 2. Extraia os arquivos em uma pasta local.
 3. Abra o projeto no ambiente de desenvolvimento adequado.
 4. Consulte a documentação e os materiais de apoio para entender melhor a lógica e a implementação.
-
-## Observação
-
-Este README foi elaborado em português para apresentar uma visão geral clara do projeto e facilitar a compreensão do contexto acadêmico e da organização do repositório.
 
 ---
 
